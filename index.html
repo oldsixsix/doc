@@ -13,13 +13,19 @@
    
   <script>
     window.$docsify = {
+	  name: 'Java-Book',
+      repo: 'http://doublestrong8080.gitee.io/docs/#/',
 	 coverpage: true,
+	 loadNavbar: true,
+	  loadSidebar: true,
+	    auto2top: true,
 	 loadSidebar: true,
       maxLevel: 2,
       subMaxLevel: 4,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
       },
+	    ga: 'UA-144208445-1',
 	    search: {
         placeholder: '搜索',
         noData: '找不到结果!',

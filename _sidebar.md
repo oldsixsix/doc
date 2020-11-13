@@ -1,10 +1,25 @@
-  * 后台
-    * [后台系统搭建及数据库设计规范](back/谷粒在线教育--后台系统搭建及数据库设计规范.md)
+  * JAVA基础
+    * [Java基础面试题](java/java基础面试题.md)
+	* [Java8新特性-Stream流](java/JavaSteam详解.md)
+  * JVM虚拟机
+	* [JVM面试题](java/JVM面试题.md)
+  * JUC多线程
+    * [JUC面试题](java/JUC面试题.md)
+  * SSM框架相关
+	* [SSM面试题](java/ssm相关面试题.md)
+	* [SpringBoot面试题](java/Springboot面试题.md)
+  * Redis
+	* [Redis面试题](java/Redis详解.md)
+  * Nginx
+	* [Nginx笔记](java/Nginx复习.md)
+  * Git
+	* [Git常用命令速查表](java/git常用命令速查表.md)
+  * 大厂面经-未完待续
+	* [腾讯一面0827](java/腾讯一面0827.md)
+	* [字节飞书一面](java/字节飞书部门java一面实习面经.md)
+  * 项目实战-在线教育项目
 	* [讲师管理模块](back/讲师管理模块.md)
 	* [服务模块公共配置](back/服务模块公共配置.md)
 	* [整合阿里云OSS对象存储](back/整合阿里云OSS对象存储.md)
 	* [EasyExcel基本使用](back/EasyExcel基本使用.md)
 	* [Mybatis-plus使用详解](back/Mybatis-plus使用详解.md)
-  * 架构篇
-    * [mall整合SpringBoot+MyBatis搭建基本骨架](architect/mall_arch_01.md)
-    * [mall整合Swagger-UI实现在线API文档](architect/mall_arch_02.md)
